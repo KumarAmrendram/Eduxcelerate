@@ -5,7 +5,7 @@ class Seekbar extends Component {
     
   constructor(props) {
     super(props);
-    const { width } = this.props;
+    // const { width } = this.props;
     this.state = {
       position: 0,
       direction: 1, // 1 for right, -1 for left
