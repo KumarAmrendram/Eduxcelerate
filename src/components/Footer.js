@@ -33,10 +33,10 @@ function Footer() {
         <div className="middle box">
         <div className="topic">Contact us</div>
             <div className="phone">
-              <a href="#"><i className="fas fa-phone-volume"></i>+91 9457689359</a>
+              <a href="tel+919457689359"><i className="fas fa-phone-volume"></i>+91 9457689359</a>
             </div>
             <div className="email">
-              <a href="#"><i className="fas fa-envelope"></i>Eduxcelerate@gmail.com</a>
+              <a href="mailto:Eduxcelerate@gmailcom"><i className="fas fa-envelope"></i>Eduxcelerate@gmail.com</a>
             </div>
         </div>
         <div className="right box">
@@ -53,7 +53,7 @@ function Footer() {
         </div>
       </div>
       <div className="bottom">
-        <p>Copyright &#169; 2023 <a href="#">Eduxcelerate</a> All rights reserved</p>
+        <p>Copyright &#169; 2023 <a href="/">Eduxcelerate</a> All rights reserved</p>
       </div>
     </footer>
   )
